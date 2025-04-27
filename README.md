@@ -39,9 +39,13 @@ Aquí puedes ver un resumen visual de mi actividad en GitHub:
 ---
 
 ### 🌍 **Conéctemos**
-- [LinkedIn](https://www.linkedin.com/in/joelpichardo/)
-- [Instagram](https://www.instagram.com/createdbykeifer/)
-- [Portafolio](https://createdbykeifer.com)
+
+Encuentra mis perfiles y proyectos en las siguientes plataformas:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelpichardo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/createdbykeifer/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://createdbykeifer.com)
+
 
 ---
 
@@ -71,11 +75,14 @@ Si estás interesado en colaborar, hablar sobre desarrollo de software, diseño,
 
 ## Modelos 3D
 
-Aquí puedes ver uno de mis proyectos de modelado 3D:
+Aquí puedes ver algunos de mis proyectos de Programacion, UI/UX, Modelado 3D:
 
-![Modelo 3D](/media/app%20design%20createdbyk.png)
+<div style="display: flex; justify-content: space-around;">
+  <img src="/media/app design createdbyk.png" alt="Imagen 1" style="width: 45%; margin-right: 5%;">
+  <img src="/media/app2 design createdbyk.png" alt="Imagen 2" style="width: 45%; margin-left: 5%;">
+</div>
 
-O si prefieres verlo de manera interactiva, puedes visitar mi modelo en **[Sketchfab](https://sketchfab.com/tu-perfil)**.
+Si prefieres ver mis proyectos detalladamente visita: **[Sketchfab](https://sketchfab.com/tu-perfil)**.
 
 ---
 
