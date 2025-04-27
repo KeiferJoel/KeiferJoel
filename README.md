@@ -73,7 +73,7 @@ Si estás interesado en colaborar, hablar sobre desarrollo de software, diseño,
 
 Aquí puedes ver uno de mis proyectos de modelado 3D:
 
-![Modelo 3D](https://ruta-a-tu-imagen-o-gif.gif)
+![Modelo 3D](/media/app%20design%20createdbyk.png)
 
 O si prefieres verlo de manera interactiva, puedes visitar mi modelo en **[Sketchfab](https://sketchfab.com/tu-perfil)**.
 
