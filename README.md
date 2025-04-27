@@ -1,89 +1,90 @@
-# 👋 Hola, soy **Joel Pichardo** (🦇Keifer Joel)
+# 👋 Hi, I'm **Joel Pichardo** (🦇Keifer Joel)
 
-Soy **Desarrollador Frontend** y **Diseñador UI/UX** con experiencia en **C#**, **.NET**, **JavaScript**, y **SQL**. Me apasiona crear aplicaciones web y móviles con una excelente experiencia de usuario y un diseño eficiente. Siempre estoy buscando nuevas formas de mejorar mis habilidades, especialmente en el desarrollo de aplicaciones móviles y software utilizando herramientas como **Android Studio**, **Visual Studio**, **Figma**, y **Blender**. Mi objetivo es seguir aprendiendo, colaborar en proyectos interesantes y compartir mis conocimientos con la comunidad.
-
----
-
-### 📚 **¿Qué estoy haciendo ahora?**
-- Desarrollando aplicaciones móviles en **Android Studio** y **C#/.NET**.
-- Creando interfaces de usuario centradas en la experiencia con **UI/UX Design**.
-- Mejorando mis habilidades en **Blender** para modelado 3D, y aplicando estas habilidades en juegos y aplicaciones con **Unity**.
-- Participando en proyectos de **código abierto** y contribuyendo a la comunidad.
+I'm a **Frontend Developer** and **UI/UX Designer** with experience in **C#**, **.NET**, **JavaScript**, and **SQL**. I'm passionate about creating web and mobile applications with excellent user experiences and efficient designs. I’m always looking for new ways to improve my skills, especially in mobile and software development using tools like **Android Studio**, **Visual Studio**, **Figma**, and **Blender**.  
+My goal is to continue learning, collaborate on exciting projects, and share my knowledge with the community.
 
 ---
 
-### 🛠️ **Mis habilidades:**
-- **Lenguajes de programación**: HTML, CSS, JavaScript, C#, SQL
-- **Frameworks y herramientas**: React, Node.js, **.NET**, **Android Studio**, **Figma**, **VSCode**, **Visual Studio**
-- **Diseño**: UI/UX Design, prototipado, diseño de interfaces
-- **3D y modelado**: **Blender**, **Unity**
-- **Bases de datos**: SQL Server, MySQL
-- **Desarrollo móvil**: Android (Java, Kotlin), **C#** con **.NET**
+### 📚 **What I'm currently working on**
+- Developing mobile applications using **Android Studio** and **C#/.NET**.
+- Creating user-centered interfaces with **UI/UX Design** principles.
+- Improving my skills in **Blender** for 3D modeling and applying them in games and apps with **Unity**.
+- Contributing to **open-source projects** and supporting the developer community.
 
 ---
 
-### 🚀 **Proyectos destacados**
-Aquí están algunos de mis proyectos más recientes:
-
-- [**Portafolio personal**](https://keiferjoel.github.io/Joel-Pichardo-Portfolio/) - Un sitio web donde muestro mis habilidades en desarrollo web y diseño.
-- [**555 | Keifer Joel**](https://keiferjoel.wuaze.com/) - Una aplicación de lista de tareas, desarrollada con **HTML**, **CSS**, **JavaScript** y **SQL**.
-- [**CoffeeBlog**](https://github.com/KeiferJoel/CoffeeBlog) - Sitio Web de blogs desarrollado con **HTML**, **CSS**  y **Javascript**.
-- [**Diseños 3D en Blender**](https://www.behance.net/joelitojt) - Modelos 3D creados en **Blender** y prototipos de experiencia de UI/UX creados en **Figma** para visualización de apps, juegos con **Unity**.
+### 🛠️ **Skills**
+- **Programming Languages**: HTML, CSS, JavaScript, C#, SQL
+- **Frameworks & Tools**: React, Node.js, **.NET**, **Android Studio**, **Figma**, **VSCode**, **Visual Studio**
+- **Design**: UI/UX Design, Prototyping, Interface Design
+- **3D & Modeling**: **Blender**, **Unity**
+- **Databases**: SQL Server, MySQL
+- **Mobile Development**: Android (Java, Kotlin), **C#** with **.NET**
 
 ---
 
-### 📈 **Estadísticas de GitHub**
-Aquí puedes ver un resumen visual de mi actividad en GitHub:
+### 🚀 **Featured Projects**
+Here are some of my latest projects:
+
+- [**Personal Portfolio**](https://keiferjoel.github.io/Joel-Pichardo-Portfolio/) - A website showcasing my web development and design skills.
+- [**555 | Keifer Joel**](https://keiferjoel.wuaze.com/) - A task list application built with **HTML**, **CSS**, **JavaScript**, and **SQL**.
+- [**CoffeeBlog**](https://github.com/KeiferJoel/CoffeeBlog) - A blog website developed using **HTML**, **CSS**, and **JavaScript**.
+- [**3D Designs in Blender**](https://www.behance.net/joelitojt) - 3D models and UI/UX experience prototypes created with **Blender** and **Figma** for app and game visualization with **Unity**.
+
+---
+
+### 📈 **GitHub Stats**
+Here's a visual overview of my GitHub activity:
 ![Keifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeiferJoel&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ---
 
-### 🌍 **Conéctemos**
+### 🌍 **Let's Connect**
 
-Encuentra mis perfiles y proyectos en las siguientes plataformas:
+Find me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-pichardo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/createdbykeifer/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://keiferjoel.github.io/Joel-Pichardo-Portfolio/)
-
-
----
-
-### 📫 **Cómo contactarme**
-Si estás interesado en colaborar, hablar sobre desarrollo de software, diseño, o simplemente compartir ideas, no dudes en enviarme un mensaje a través de GitHub o mis redes sociales. ¡Estoy abierto a nuevas oportunidades!
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://keiferjoel.github.io/Joel-Pichardo-Portfolio/)
 
 ---
 
-### 📝 **Algunos de mis logros**
-- He trabajado en **más de 10 proyectos de desarrollo web** y **aplicaciones móviles**, mejorando mis habilidades de front-end, back-end y diseño.
-- Mi experiencia con **Blender** me ha permitido integrar **modelos 3D** en aplicaciones y videojuegos creados con **Unity**.
-- He creado aplicaciones móviles en **Android Studio** utilizando **Java y Kotlin**, y he trabajado con **C#/.NET** para desarrollo de software empresarial.
+### 📫 **How to contact me**
+If you are interested in collaborating, discussing software development, design, or simply exchanging ideas, feel free to send me a message through GitHub or my social media.  
+I'm always open to new opportunities!
 
 ---
 
-### 📊 **Lenguajes más utilizados**
+### 📝 **Some of my achievements**
+- Worked on **10+ web and mobile development projects**, enhancing my frontend, backend, and design skills.
+- Integrated **3D models** into applications and video games using **Blender** and **Unity**.
+- Developed mobile apps with **Android Studio** (Java & Kotlin) and built enterprise software using **C#/.NET**.
+
+---
+
+### 📊 **Top Languages**
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeiferJoel&layout=compact&theme=dark)](https://github.com/KeiferJoel)
 
 ---
 
-### 📉 **Contribuciones en la comunidad**
-- Contribuciones a proyectos de **UI/UX Design** y **Desarrollo Web**.
-- Participación activa en **proyectos open-source**, especialmente en áreas de **desarrollo web** y **desarrollo móvil**.
+### 📉 **Community Contributions**
+- Contributions to **UI/UX design** and **web development** projects.
+- Active participation in **open-source projects**, mainly in **web** and **mobile development** areas.
 
 ---
 
-## Modelos 3D
+## 3D Models
 
-Aquí puedes ver algunos de mis proyectos de Programacion, UI/UX, Modelado 3D:
+Here you can check some of my Programming, UI/UX, and 3D Modeling projects:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/media/app design createdbyk.png" alt="Imagen 1" style="width: 45%; margin-right: 5%;">
-  <img src="/media/app2 design createdbyk.png" alt="Imagen 2" style="width: 45%; margin-left: 5%;">
+  <img src="/media/app design createdbyk.png" alt="Design 1" style="width: 45%; margin-right: 5%;">
+  <img src="/media/app2 design createdbyk.png" alt="Design 2" style="width: 45%; margin-left: 5%;">
 </div>
 
-Si prefieres ver este proyecto detalladamente visita: **[Behance](https://www.behance.net/gallery/216372631/K-Player-Concept-UIUX-Design-App-Design)**.
+If you want to see this project in more detail, visit: **[Behance](https://www.behance.net/gallery/216372631/K-Player-Concept-UIUX-Design-App-Design)**.
 
 ---
 
-> "La programación no es solo aprender a escribir código, es aprender a resolver problemas." - **Joel Pichardo**
+> "Programming is not just about writing code, it’s about solving problems." – **Joel Pichardo**
