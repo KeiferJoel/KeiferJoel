@@ -1,4 +1,4 @@
-# 👋 Hola, soy **Joel Pichardo** (Keifer Joel)
+# 👋 Hola, soy **Joel Pichardo** (🦇Keifer Joel)
 
 Soy **Desarrollador Frontend** y **Diseñador UI/UX** con experiencia en **C#**, **.NET**, **JavaScript**, y **SQL**. Me apasiona crear aplicaciones web y móviles con una excelente experiencia de usuario y un diseño eficiente. Siempre estoy buscando nuevas formas de mejorar mis habilidades, especialmente en el desarrollo de aplicaciones móviles y software utilizando herramientas como **Android Studio**, **Visual Studio**, **Figma**, y **Blender**. Mi objetivo es seguir aprendiendo, colaborar en proyectos interesantes y compartir mis conocimientos con la comunidad.
 
