@@ -1,39 +1,40 @@
 # 👋 Hola, soy **Joel Pichardo** (Keifer Joel)
 
-Soy **Desarrollador Frontend** y **Diseñador UI/UX** con una pasión por el diseño y la programación. Actualmente, estoy enfocándome en mejorar mis habilidades en **HTML**, **CSS**, **JavaScript**, y **SQL**, y tengo experiencia trabajando con herramientas como **Figma**, **VSCode**, y **Blender**. Mi objetivo es crear aplicaciones intuitivas, eficientes y bien diseñadas, mientras aprendo y aplico las mejores prácticas en desarrollo.
+Soy **Desarrollador Frontend** y **Diseñador UI/UX** con experiencia en **C#**, **.NET**, **JavaScript**, y **SQL**. Me apasiona crear aplicaciones web y móviles con una excelente experiencia de usuario y un diseño eficiente. Siempre estoy buscando nuevas formas de mejorar mis habilidades, especialmente en el desarrollo de aplicaciones móviles y software utilizando herramientas como **Android Studio**, **Visual Studio**, **Figma**, y **Blender**. Mi objetivo es seguir aprendiendo, colaborar en proyectos interesantes y compartir mis conocimientos con la comunidad.
 
 ---
 
 ### 📚 **¿Qué estoy haciendo ahora?**
-- Trabajando en proyectos web utilizando **HTML**, **CSS**, **JavaScript**, y **SQL**.
-- Mejorando mis habilidades en **Blender** y **Unity** para integrar gráficos 3D en aplicaciones.
-- Estudiando y aplicando principios de **UI/UX** en mis proyectos para crear experiencias de usuario optimizadas.
-- Buscando proyectos de código abierto donde pueda contribuir y aprender más sobre desarrollo y diseño.
+- Desarrollando aplicaciones móviles en **Android Studio** y **C#/.NET**.
+- Creando interfaces de usuario centradas en la experiencia con **UI/UX Design**.
+- Mejorando mis habilidades en **Blender** para modelado 3D, y aplicando estas habilidades en juegos y aplicaciones con **Unity**.
+- Participando en proyectos de **código abierto** y contribuyendo a la comunidad.
 
 ---
 
 ### 🛠️ **Mis habilidades:**
-- **Lenguajes de programación**: HTML, CSS, JavaScript, SQL
-- **Frameworks y herramientas**: Figma, VSCode, Unity
+- **Lenguajes de programación**: HTML, CSS, JavaScript, C#, SQL
+- **Frameworks y herramientas**: React, Node.js, **.NET**, **Android Studio**, **Figma**, **VSCode**, **Visual Studio**
 - **Diseño**: UI/UX Design, prototipado, diseño de interfaces
-- **3D y modelado**: Blender (modelado y animación)
+- **3D y modelado**: **Blender**, **Unity**
 - **Bases de datos**: SQL Server, MySQL
-- **Desarrollo web**: Responsive Web Design, accesibilidad web
+- **Desarrollo móvil**: Android (Java, Kotlin), **C#** con **.NET**
 
 ---
 
 ### 🚀 **Proyectos destacados**
 Aquí están algunos de mis proyectos más recientes:
 
-- [**Portafolio personal**](https://github.com/createdbykeifer/portfolio) - Un sitio web donde muestro mis habilidades en diseño y desarrollo.
+- [**Portafolio personal**](https://github.com/createdbykeifer/portfolio) - Un sitio web donde muestro mis habilidades en desarrollo web y diseño.
 - [**Aplicación de Gestión de Tareas**](https://github.com/createdbykeifer/todolist) - Una aplicación de lista de tareas, desarrollada con **JavaScript** y **SQL**.
-- [**Diseños 3D en Blender**](https://github.com/createdbykeifer/3d-models) - Proyectos de modelado 3D creados en **Blender** para visualización en aplicaciones y juegos.
+- [**Aplicación Móvil de Clima**](https://github.com/createdbykeifer/weatherapp) - App móvil de pronóstico del tiempo utilizando **Android Studio** y **Java**.
+- [**Diseños 3D en Blender**](https://github.com/createdbykeifer/3d-models) - Modelos 3D creados en **Blender** para visualización en juegos y aplicaciones con **Unity**.
 
 ---
 
-### 📈 **Contribuciones a la comunidad**
-- Contribuciones a proyectos de **UI/UX Design** y **Desarrollo Web**.
-- Participo activamente en **proyectos open-source** para seguir aprendiendo y colaborar con otros desarrolladores.
+### 📈 **Estadísticas de GitHub**
+Aquí puedes ver un resumen visual de mi actividad en GitHub:
+![Keifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=createdbykeifer&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ---
 
@@ -45,20 +46,37 @@ Aquí están algunos de mis proyectos más recientes:
 ---
 
 ### 📫 **Cómo contactarme**
-Si estás interesado en colaborar o simplemente quieres hablar sobre tecnología, diseño o programación, no dudes en enviarme un mensaje a través de GitHub o mis redes sociales. ¡Estoy siempre abierto a nuevas oportunidades!
+Si estás interesado en colaborar, hablar sobre desarrollo de software, diseño, o simplemente compartir ideas, no dudes en enviarme un mensaje a través de GitHub o mis redes sociales. ¡Estoy abierto a nuevas oportunidades!
 
 ---
 
 ### 📝 **Algunos de mis logros**
-- He trabajado en más de **10 proyectos de desarrollo web**, mejorando mis habilidades de front-end y diseño.
-- Mi experiencia en **Blender** me ha permitido integrar **modelos 3D** en aplicaciones y videojuegos usando **Unity**.
-- Mi enfoque en **UI/UX** me ha ayudado a crear interfaces intuitivas y accesibles.
+- He trabajado en **más de 10 proyectos de desarrollo web** y **aplicaciones móviles**, mejorando mis habilidades de front-end, back-end y diseño.
+- Mi experiencia con **Blender** me ha permitido integrar **modelos 3D** en aplicaciones y videojuegos creados con **Unity**.
+- He creado aplicaciones móviles en **Android Studio** utilizando **Java y Kotlin**, y he trabajado con **C#/.NET** para desarrollo de software empresarial.
 
 ---
 
-### 📊 **Estadísticas de GitHub**
-![Keifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=createdbykeifer&show_icons=true&hide_title=true&count_private=true&theme=dark)
+### 📊 **Lenguajes más utilizados**
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=createdbykeifer&layout=compact&theme=dark)](https://github.com/createdbykeifer)
 
 ---
 
-> "La programación no es solo aprender a escribir código, es aprender a resolver problemas." - Joel Pichardo
+### 📉 **Contribuciones en la comunidad**
+- Contribuciones a proyectos de **UI/UX Design** y **Desarrollo Web**.
+- Participación activa en **proyectos open-source**, especialmente en áreas de **desarrollo web** y **desarrollo móvil**.
+
+---
+
+## Modelos 3D
+
+Aquí puedes ver uno de mis proyectos de modelado 3D:
+
+![Modelo 3D](https://ruta-a-tu-imagen-o-gif.gif)
+
+O si prefieres verlo de manera interactiva, puedes visitar mi modelo en **[Sketchfab](https://sketchfab.com/tu-perfil)**.
+
+---
+
+> "La programación no es solo aprender a escribir código, es aprender a resolver problemas." - **Joel Pichardo**
