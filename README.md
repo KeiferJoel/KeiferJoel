@@ -25,16 +25,16 @@ Soy **Desarrollador Frontend** y **Diseñador UI/UX** con experiencia en **C#**,
 ### 🚀 **Proyectos destacados**
 Aquí están algunos de mis proyectos más recientes:
 
-- [**Portafolio personal**](https://github.com/createdbykeifer/portfolio) - Un sitio web donde muestro mis habilidades en desarrollo web y diseño.
-- [**Aplicación de Gestión de Tareas**](https://github.com/createdbykeifer/todolist) - Una aplicación de lista de tareas, desarrollada con **JavaScript** y **SQL**.
-- [**Aplicación Móvil de Clima**](https://github.com/createdbykeifer/weatherapp) - App móvil de pronóstico del tiempo utilizando **Android Studio** y **Java**.
-- [**Diseños 3D en Blender**](https://github.com/createdbykeifer/3d-models) - Modelos 3D creados en **Blender** para visualización en juegos y aplicaciones con **Unity**.
+- [**Portafolio personal**](https://keiferjoel.github.io/Joel-Pichardo-Portfolio/) - Un sitio web donde muestro mis habilidades en desarrollo web y diseño.
+- [**555 | Keifer Joel**](https://keiferjoel.wuaze.com/) - Una aplicación de lista de tareas, desarrollada con **HTML**, **CSS**, **JavaScript** y **SQL**.
+- [**CoffeeBlog**](https://github.com/KeiferJoel/CoffeeBlog) - Sitio Web de blogs desarrollado con **HTML**, **CSS**  y **Javascript**.
+- [**Diseños 3D en Blender**](https://www.behance.net/joelitojt) - Modelos 3D creados en **Blender** y prototipos de experiencia de UI/UX creados en **Figma** para visualización de apps, juegos con **Unity**.
 
 ---
 
 ### 📈 **Estadísticas de GitHub**
 Aquí puedes ver un resumen visual de mi actividad en GitHub:
-![Keifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=createdbykeifer&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![Keifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeiferJoel&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ---
 
@@ -42,9 +42,9 @@ Aquí puedes ver un resumen visual de mi actividad en GitHub:
 
 Encuentra mis perfiles y proyectos en las siguientes plataformas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelpichardo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-pichardo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/createdbykeifer/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://createdbykeifer.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://keiferjoel.github.io/Joel-Pichardo-Portfolio/)
 
 
 ---
@@ -63,7 +63,7 @@ Si estás interesado en colaborar, hablar sobre desarrollo de software, diseño,
 
 ### 📊 **Lenguajes más utilizados**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=createdbykeifer&layout=compact&theme=dark)](https://github.com/createdbykeifer)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeiferJoel&layout=compact&theme=dark)](https://github.com/KeiferJoel)
 
 ---
 
@@ -82,7 +82,7 @@ Aquí puedes ver algunos de mis proyectos de Programacion, UI/UX, Modelado 3D:
   <img src="/media/app2 design createdbyk.png" alt="Imagen 2" style="width: 45%; margin-left: 5%;">
 </div>
 
-Si prefieres ver mis proyectos detalladamente visita: **[Sketchfab](https://sketchfab.com/tu-perfil)**.
+Si prefieres ver este proyecto detalladamente visita: **[Behance](https://www.behance.net/gallery/216372631/K-Player-Concept-UIUX-Design-App-Design)**.
 
 ---
 
