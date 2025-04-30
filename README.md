@@ -1,9 +1,11 @@
 # 👋 Hi, I'm **Joel Pichardo** (🦇Keifer Joel)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=27&pause=1000&color=9F1F20&random=true&width=435&lines=Frontend+Developer;JavaScript;CSS;HTML;FIGMA;UI%2FUX;SQL)](https://git.io/typing-svg)
+
 I'm a **Frontend Developer** and **UI/UX Designer** with experience in **C#**, **.NET**, **JavaScript**, and **SQL**. I'm passionate about creating web and mobile applications with excellent user experiences and efficient designs. I’m always looking for new ways to improve my skills, especially in mobile and software development using tools like **Android Studio**, **Visual Studio**, **Figma**, and **Blender**.  
 My goal is to continue learning, collaborate on exciting projects, and share my knowledge with the community.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=27&pause=1000&color=9F1F20&center=true&vCenter=true&random=true&width=435&lines=Frontend+Developer;JavaScript;CSS;HTML;FIGMA;UI%2FUX;SQL)](https://git.io/typing-svg)
+
 
 ---
 
